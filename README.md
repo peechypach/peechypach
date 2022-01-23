@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peechypach
 - 👀 I’m interested in = site development 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning html and css after 
 - 💞️ I’m looking to collaborate on = currently nothin cause ive just started
 - 📫 How to reach me : instagram= masoud_absp
 
